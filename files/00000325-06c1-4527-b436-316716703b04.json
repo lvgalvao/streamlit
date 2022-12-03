@@ -1,0 +1,67 @@
+{
+    "info": {
+        "uuid": "00000325-06c1-4527-b436-316716703b04",
+        "name": "Bom Gelado Sorvetes e Açaí",
+        "description": "Sorvetes e Picolés artesanais e o melhor Açaí Cremoso da cidade!",
+        "district": "Lagoa Seca",
+        "city": "NATAL",
+        "state": "RN",
+        "country": "BR",
+        "latitude": -5.811057,
+        "longitude": -35.215384,
+        "zipCode": "59032620",
+        "streetName": "Rua Jaguarari",
+        "streetNumber": "1815",
+        "fullAddress": "Rua Jaguarari, 1815, em frete a Eletri Car, NATAL - RN - BR - 59032620}",
+        "telephone": "40030053",
+        "cnpj": "36993096000183",
+        "priceRange": "CHEAPEST",
+        "categories": [
+            "Sorvetes"
+        ],
+        "userRatingCount": 0,
+        "userRating": "",
+        "url": "",
+        "openingTime": [
+            "WEDNESDAY: 11:00:00 | FRIDAY: 11:00:00 | SUNDAY: 11:00:00 | THURSDAY: 11:00:00 | TUESDAY: 11:00:00 | MONDAY: 11:00:00 | SATURDAY: 11:00:00"
+        ]
+    },
+    "sections": {
+        "menus": [
+            {
+                "code": "ae996707-ffb0-4670-86ea-c6496271c25e",
+                "name": "Picolés",
+                "order": 0,
+                "items": [
+                    {
+                        "uuid": "9bf26a91-b3d4-4a4c-9aee-d063291a4f39",
+                        "name": "Coco queimado",
+                        "description": null,
+                        "price": 3.5,
+                        "image": "00000325-06c1-4527-b436-316716703b04/202102022147_jDse_f.png",
+                        "order": 0,
+                        "subItems": []
+                    },
+                    {
+                        "uuid": "2f503e6a-5c64-46ec-a0c9-56eb2f10d2d4",
+                        "name": "Abacate",
+                        "description": null,
+                        "price": 3.5,
+                        "image": "00000325-06c1-4527-b436-316716703b04/202102022147_jDse_f.png",
+                        "order": 1,
+                        "subItems": []
+                    }
+                ]
+            }
+        ]
+    },
+    "metadata": {
+        "menuCount": 1,
+        "itemCount": 2,
+        "subItemCount": 0,
+        "companyId": [
+            "6"
+        ],
+        "originalFilePath": "intellifood-br-data/consolidated-data/Restaurant/1/2022/12/02/12/all/00000325-06c1-4527-b436-316716703b04.json"
+    }
+}
